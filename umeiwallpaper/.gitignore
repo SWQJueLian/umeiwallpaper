@@ -1,0 +1,9 @@
+.idea
+*.pyc
+build
+dbs
+eggs
+jobdir
+logs
+project.egg-info
+jobdir
